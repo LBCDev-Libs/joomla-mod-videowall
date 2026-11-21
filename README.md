@@ -10,7 +10,7 @@ Un módulo para mostrar un video con un titulo y botón de mute
 ~~~
 git init foo
 cd foo
-git pull https://github.com/LBC-Joomla-Extensions/joomla-mod-videowall.git
+git pull https://github.com/LBCDev-Libs/joomla-mod-videowall.git
 ~~~
 
 * Instalamos las dependencias del archivo package.json
