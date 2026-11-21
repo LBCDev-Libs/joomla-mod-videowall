@@ -6,19 +6,19 @@
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "watch": "webpack --config webpack.config.js --watch",
-    "update-styles": "git subtree pull --prefix src/styles https://github.com/LBC-Starter-Kits/sass-7-1-pattern.git main --squash"
+    "update-styles": "git subtree pull --prefix src/styles https://github.com/LBCDev-Libs/sass-7-1-pattern.git main --squash"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LBC-Joomla-Extensions/joomla-mod-videowall.git"
+    "url": "git+https://github.com/LBCDev-Libs/joomla-mod-videowall.git"
   },
   "keywords": [],
   "author": "Luis Breña Calvo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LBC-Joomla-Extensions/joomla-mod-videowall.git/issues"
+    "url": "https://github.com/LBCDev-Libs/joomla-mod-videowall.git/issues"
   },
-  "homepage": "https://github.com/LBC-Joomla-Extensions/joomla-mod-videowall.git#readme",
+  "homepage": "https://github.com/LBCDev-Libs/joomla-mod-videowall.git#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/polyfill": "^7.10.1",
